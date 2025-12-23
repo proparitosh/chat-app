@@ -45,7 +45,7 @@ chatify/
 └── public/
 | ├── index.html
 | ├── app.js
-| └── ui.css
+| └── style.css
 ```
 
 ---
