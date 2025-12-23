@@ -39,19 +39,13 @@ This project was developed for academic purposes to demonstrate **real-time comm
 chatify/
 │
 ├── server.js
-
 ├── package.json
-
 ├── README.md
-
 │
 └── public/
-
-├── index.html
-
-├── app.js
-
-└── ui.css
+| ├── index.html
+| ├── app.js
+| └── ui.css
 ```
 
 ---
