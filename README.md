@@ -65,7 +65,7 @@ Make sure you have the following installed:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/chatify.git
-cd chat-app
+cd ./chat-app/
 ```
 2️⃣ Install Dependencies
 
